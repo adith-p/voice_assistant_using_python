@@ -1,2 +1,2 @@
-# project_Black-Adam
-a simple voice assistant  that can do much bigger thing in the near future
+# voice assistant using python
+a voice assistant can help you in day to day tasks 
